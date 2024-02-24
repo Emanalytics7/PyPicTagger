@@ -24,11 +24,11 @@ This Python script automates the process of classifying images. It reads image U
 
 ### Usage
 1. Prepare a CSV with image URLs in the first column.
-2. Execute the script: `python main.py`
+2. Execute the script: `python pypic.py`
 3. View results in `classified_images.csv`, including tags and confidence scores.
 
 ## Project Structure
-- `main.py`: The main script that orchestrates the classification process.
+- `pypic.py`: The main script that orchestrates the classification process.
 - `.env.example`: An example `.env` file.
 - `requirements.txt`: Lists all the project dependencies.
 
