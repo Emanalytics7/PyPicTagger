@@ -29,7 +29,7 @@ This Python script automates the process of classifying images. It reads image U
 
 ## Project Structure
 - `pypic.py`: The main script that orchestrates the classification process.
-- `.env.example`: An example `.env` file.
+- `.env`:An `.env` file.
 - `requirements.txt`: Lists all the project dependencies.
 
 ## Contributing
