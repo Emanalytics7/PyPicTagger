@@ -4,7 +4,7 @@
 This Python script automates the process of classifying images. It reads image URLs from a CSV file, classifies them using the Clarifai API, and writes the results to another CSV file. This project showcases skills in API integration, error handling, and file operations in Python.
 
 ## Features
-- **Automated Image Classification**: Streamlines the process of categorizing images based on their content.
+- **Automated Image Tagger**: Streamlines the process of tagging the images based on their content.
 - **API Integration**: Utilizes the Clarifai API for advanced image recognition.
 - **Error Handling**: Implements robust error handling and retry strategies for API requests.
 - **CSV Operations**: Reads from and writes to CSV files, enabling easy data manipulation and storage.
