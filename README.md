@@ -19,6 +19,8 @@ This Python script automates the process of classifying images. It reads image U
 - `clarifai_grpc` for API access
 - `python-dotenv` for environment variable management
 - `backoff` for retry logic
+- `protobuf` essential for the underlying functionality of the clarifai_grpc library
+- `requests` used during url validation
 
 ### Setup
 1. Clone this repository.
