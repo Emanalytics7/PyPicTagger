@@ -8,6 +8,9 @@ This Python script automates the process of classifying images. It reads image U
 - **API Integration**: Utilizes the Clarifai API for advanced image recognition.
 - **Error Handling**: Implements robust error handling and retry strategies for API requests.
 - **CSV Operations**: Reads from and writes to CSV files, enabling easy data manipulation and storage.
+- **Parallel Processing**: Uses concurrent processing to speed up image classification.
+- **URL Validation**: Ensures that URLs are valid and accessible before processing.
+- **Logging**: Provides detailed logging for monitoring and debugging
 
 ## Getting Started
 
